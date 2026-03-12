@@ -20,6 +20,7 @@ then activate environment
 
 
 add an .env file with account_id private_key and api_key
+
 to run
 
 python3 shorter.py
