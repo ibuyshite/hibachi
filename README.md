@@ -14,8 +14,12 @@ created just for fun - forked from [Yyeger](https://github.com/Yyeger/hibachi-xy
 
 then activate environment 
 ```python3.13 -m venv hibachi-env```
+
 ```source hibachi-env/bin/activate```
 
 
 
 add an .env file with account_id private_key and api_key
+to run
+
+python3 shorter.py
